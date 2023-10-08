@@ -21,7 +21,7 @@
 
 ## 第一步：克隆空间
 
-打开我已经部署好的空间：[QQsign](https://ghproxy.com/https://huggingface.co/spaces/CikeyQI/QQsign)，点击右上角三个点，点击 **Duplicate this Space** 
+打开我已经部署好的空间：[QQsign](https://huggingface.co/spaces/CikeyQI/QQsign)，点击右上角三个点，点击 **Duplicate this Space** 
 ![克隆空间](https://github.com/CikeyQi/QQsign_docs/blob/main/src/1.png?raw=true)
 
 ## 第二步：填写相应的项
